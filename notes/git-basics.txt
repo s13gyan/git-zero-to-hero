@@ -1,1 +1,10 @@
-Git tracks changes to files.
+Git and GitHub Practice Notes
+
+1. git init - creates a Git repository.
+2. git status - shows the working tree status.
+3. git add - stages changes for a commit.
+4. git commit - saves a snapshot in Git history.
+5. git log --oneline - displays a short commit history.
+6. git push - uploads commits to a remote repository.
+7. git pull - fetches and integrates remote changes.
+8. git branch - lists branches.

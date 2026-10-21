@@ -1,1 +1,2 @@
 Linux is an operating system used in DevOps.
+pwd displays the current working directory.
