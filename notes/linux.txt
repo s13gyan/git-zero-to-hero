@@ -1,2 +1,6 @@
 Linux is an operating system used in DevOps.
 pwd displays the current working directory.
+whoami displays the current username.
+df -h displays disk space in a human-readable format.
+free -h displays memory usage in human-readable format.
+uptime displays how long a system has been running.
